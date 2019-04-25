@@ -1,2 +1,2 @@
 # Praxe
-Moje práce na praxi
+Moje práce na praxi.
